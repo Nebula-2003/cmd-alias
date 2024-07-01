@@ -1,12 +1,19 @@
 {
-    "name": "cmd-alias",
+    "name": "@nebula2003/cmd-alias",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "bin": {
         "c": "./index.js"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
+    "keywords": [
+        "command",
+        "alias"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nebula-2003/cmd-alias"
+    },
+    "author": "Tejus",
+    "license": "MIT"
 }
