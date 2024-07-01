@@ -1,0 +1,12 @@
+{
+    "name": "cmd-alias",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "c": "./index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
